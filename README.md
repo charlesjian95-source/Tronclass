@@ -9,5 +9,5 @@
 
 ## 🛠️ 使用方式
 1. 安裝所需套件：`pip install requests beautifulsoup4`
-2. 執行腳本：`python down.py`
+2. 執行腳本：`python Downloader.py`
 3. 依序輸入學號、密碼與 TronClass 學習活動網址，即可自動下載 PDF 檔案至同目錄。
