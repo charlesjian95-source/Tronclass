@@ -46,7 +46,8 @@ python Downloader.py
 *   **學號**：例如 `B12345678`
 *   **密碼**：您的 TronClass 單一登入密碼
 *   **檔案網址**：貼上該章節的 learning-activity 網址 
-> 範例網址：https://elearn.nsysu.edu.tw/course/12345/learning-activity#/67890
+> 範例網址圖片
+<img width="2048" height="975" alt="Image" src="https://github.com/user-attachments/assets/d0d04a4d-6115-45c6-a75f-da5ea7f0b620" />
 
 腳本執行完畢後，PDF 教材將會自動儲存於當前的資料夾目錄下。
 
